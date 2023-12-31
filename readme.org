@@ -14,28 +14,28 @@ freebase主要放小文件和整理的文本和图片，freebook放一些不大�
   - 电磁通论-卷2-麦克斯韦-英文.pdf
 - 1871Russell 沃尔特·罗素（Walter Russell）1871-1963，画家、雕塑家、作家、建筑家
   - 事迹：在两本书中给出了以太物质模型，是对麦克斯韦“动态电磁场理论”的延伸
-  - 沃尔特-拉塞尔的新宇宙观-中英目录.pdf
-  - 沃尔特罗素-通用-炼金术化学-英文.pdf
+  - 1926沃尔特罗素-通用-炼金术化学-英文.pdf
+  - 1953沃尔特-拉塞尔的新宇宙观-中英目录.pdf
 - 1886Edward 爱德华·利兹卡宁(1886-1951)
   - 事迹：爱德华Leedskalnin和他的珊瑚宫殿
-  - 《磁流》Magnetic Current Ed Leedskalnin Coral Castle.pdf
+  - 1945《磁流》Magnetic Current Ed Leedskalnin Coral Castle.pdf
   - 《磁流》OneKBase中文整理版.pdf
 - 1930Newman 因为不太出名，1930为推测的大概出生日期
   - 事迹：提出了以太的概念模型，提出了一种电磁能源机的制造
-  - 《纽曼的能源机》中英-前18章OneKBase版.pdf
+  - 1968《纽曼的能源机》中英-前18章OneKBase版.pdf
 - 1958keshe 迈赫兰·塔瓦科利·凯史(Mehran Tavakoli Keshe)，1958年出生于伊朗
   - 事迹：微型等离子反应器和三本书
-  - 001《物质造物的普遍秩序》The_Universal_Order_of_Creation_of_Matters-英文-带目录
+  - 2009《物质造物的普遍秩序》The_Universal_Order_of_Creation_of_Matters-英文-带目录
   - 002《光的结构》The_Structure_of_the_Light-英文带目录
   - 003《宇宙的起源》-英文-带目录.pdf
-  - KESHE专利文件：微型等离子反应器（国际版）.pdf
-  - KESHE专利文件：微型等离子反应器（欧洲版）.pdf
-  - KESHE专利文件：引力与能量系统（国际版）.pdf
-  - Keshe专利文件：引力与能量系统（欧洲版）.pdf
+  - 2008KESHE专利文件：微型等离子反应器（国际版）.pdf
+  - 2007KESHE专利文件：微型等离子反应器（欧洲版）.pdf
+  - 2008KESHE专利文件：引力与能量系统（国际版）.pdf
+  - 2007Keshe专利文件：引力与能量系统（欧洲版）.pdf
 
 * 被禁止的知识
 
 - MMS 吉姆·汉伯 Jim Humble
   - 事迹：发现二氧化氯溶液可以摄入人体治愈除真菌外所有细菌病毒导致的疾病，并给出了家庭制作方法，成本几乎为零
-  - 《第三千禧年的神奇矿物质溶液》.pdf
+  - 2008《第三千禧年的神奇矿物质溶液》.pdf
   - 《神奇矿物质溶液-MMS使用手册2013版》.pdf

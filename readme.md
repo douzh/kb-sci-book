@@ -28,6 +28,7 @@ freebase主要放小文件和整理的文本和图片，freebook放一些不大�
   - 事迹1：在两本书中给出了以太物质模型，是对麦克斯韦“动态电磁场理论”的延伸
   - 事迹2：在书中给出了元素周期表原子的以太模型，给出了常见物理学现象的新解释
   - [[1926THE-UNIVERSAL-ONE(Walter-Bowman-Russell).pdf]]
+  - [[1947The-Secret-of-Light(Walter_Russell).pdf]]
   - [[1953沃尔特-拉塞尔的新宇宙观-中英目录.pdf]]
 - 1886爱德华· 爱德华·利兹卡宁(Edward Leedskalnin 1886-1951)
   - 事迹1：留有实物建筑 爱德华和他的珊瑚宫殿
@@ -70,6 +71,7 @@ freebase主要放小文件和整理的文本和图片，freebook放一些不大�
 [1837约翰.科利-自由能的先驱者-英文.pdf]: 1837keely/1837%E7%BA%A6%E7%BF%B0.%E7%A7%91%E5%88%A9-%E8%87%AA%E7%94%B1%E8%83%BD%E7%9A%84%E5%85%88%E9%A9%B1%E8%80%85-%E8%8B%B1%E6%96%87.pdf "1837约翰.科利-自由能的先驱者-英文.pdf"
 [1837从未揭示的宇宙法则：基利的秘密-英文.pdf]: 1837keely/1837%E4%BB%8E%E6%9C%AA%E6%8F%AD%E7%A4%BA%E7%9A%84%E5%AE%87%E5%AE%99%E6%B3%95%E5%88%99%EF%BC%9A%E5%9F%BA%E5%88%A9%E7%9A%84%E7%A7%98%E5%AF%86-%E8%8B%B1%E6%96%87.pdf "1837从未揭示的宇宙法则：基利的秘密-英文.pdf"
 [1926THE-UNIVERSAL-ONE(Walter-Bowman-Russell).pdf]: 1871russell/1926THE-UNIVERSAL-ONE(Walter-Bowman-Russell).pdf "1926THE-UNIVERSAL-ONE(Walter-Bowman-Russell).pdf"
+[1947The-Secret-of-Light(Walter_Russell).pdf]: 1871russell/1947The-Secret-of-Light(Walter_Russell).pdf "1947The-Secret-of-Light(Walter_Russell).pdf"
 [1953沃尔特-拉塞尔的新宇宙观-中英目录.pdf]: 1871russell/1953%E6%B2%83%E5%B0%94%E7%89%B9-%E6%8B%89%E5%A1%9E%E5%B0%94%E7%9A%84%E6%96%B0%E5%AE%87%E5%AE%99%E8%A7%82-%E4%B8%AD%E8%8B%B1%E7%9B%AE%E5%BD%95.pdf "1953沃尔特-拉塞尔的新宇宙观-中英目录.pdf"
 [1945《磁流》Magnetic Current Ed Leedskalnin Coral Castle.pdf]: <1886edward/1945%E3%80%8A%E7%A3%81%E6%B5%81%E3%80%8BMagnetic Current Ed Leedskalnin Coral Castle.pdf> "1945《磁流》Magnetic Current Ed Leedskalnin Coral Castle.pdf"
 [1945《磁流》OneKBase中文整理版.pdf]: 1886edward/1945%E3%80%8A%E7%A3%81%E6%B5%81%E3%80%8BOneKBase%E4%B8%AD%E6%96%87%E6%95%B4%E7%90%86%E7%89%88.pdf "1945《磁流》OneKBase中文整理版.pdf"

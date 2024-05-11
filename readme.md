@@ -5,8 +5,6 @@
 
 联系方式：微信公众号 OneKBase 或 B站 OneKBase 发消息
 
-freebase主要放小文件和整理的文本和图片，freebook放一些不大的文档，有些原件比较大，需要请联系我。
-
 一个可以下载历史英文资料的网站：https://www.gutenberg.org/
 
 

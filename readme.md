@@ -60,7 +60,7 @@
   - 给出了形状控制以太能量的基本理论和方法
   - 提出了原子结构的涡流模型，并用数学模型推导出了常见物理常数
   - [[1997形状的力量-中英-OneKBase版.pdf]]
-- 2002 唐纳德·李·史密斯(Donald Lee Smith) RESONANCE ENERGY METHODS
+- 2002 《共振能量方法》《RESONANCE ENERGY METHODS》唐纳德·李·史密斯(Donald Lee Smith) 
   - 制造特斯拉能源机的详细知识
   - [[2002共振能量方法-唐史密斯-英文.pdf]]
   
